@@ -7,4 +7,4 @@ He has a solid experience in Systems Integration and Distributed Systems using S
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
-<a href="www.linkedin.com/in/roberto-picanco" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="roberto-picanco" height="30" width="40" /> </a>
+<a href="https://www.linkedin.com/in/roberto-picanco/" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="roberto-picanco" height="30" width="40" /> </a>
