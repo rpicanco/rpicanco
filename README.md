@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Roberto Picanço</h1>
-<h3 align="center">I'm a Solution Architect and an eternal learner!</h3>
+<h3 align="center">I'm a Solution Architect and a lifelong learner!</h3>
 
 Roberto Picanço is a Software Engineer with over 14 years of experience in the IT industry. He currently works at Sensedia as a Solutions Architect and help companies to evolve towards a Modern Development. Prior to Sensedia, Roberto worked as an IT specialist and Integration Architect in a wide variety of industries, such as aviation, telecom, energy, banking, and media.
 
